@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AllGenesStored",
+            "request": "launch",
+            "mainClass": "AllGenesStored",
+            "projectName": "In Class Examples_58d34e7c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AllCodons<In Class Examples_58d34e7c>",
+            "request": "launch",
+            "mainClass": "AllCodons",
+            "projectName": "In Class Examples_58d34e7c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FindGeneWhile<In Class Examples_58d34e7c>",
+            "request": "launch",
+            "mainClass": "FindGeneWhile",
+            "projectName": "In Class Examples_58d34e7c"
+        }
+    ]
+}

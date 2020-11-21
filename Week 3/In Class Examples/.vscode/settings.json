@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\jainy\\Documents\\Java Programs\\Libraries\\apache-csv.jar",
+        "c:\\Users\\jainy\\Documents\\Java Programs\\Libraries\\courserajava.jar"
+    ]
+}
